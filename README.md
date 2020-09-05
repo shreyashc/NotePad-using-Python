@@ -1,5 +1,5 @@
 # NotePad-using-Python
 simple notepad built using python (tkinter)
 
-Python vesion--3.7
+Python version--3.7
 
